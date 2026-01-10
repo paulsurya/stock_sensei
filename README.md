@@ -1,4 +1,4 @@
-# stock_sensei
+# Stock Sensei
 
 # Requirements
 - pip => 25.3
