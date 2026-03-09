@@ -32,8 +32,6 @@ FINNHUB_API_KEY = "your_key_here"
 streamlit run app.py
 ```
 
-App opens at http://localhost:8501
-
 ## How the AI Score Works
 
 | Indicator | Weight | Bullish Condition |
